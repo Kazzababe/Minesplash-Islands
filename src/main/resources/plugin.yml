@@ -1,0 +1,5 @@
+name: GrancraftIslands
+main: net.grancraft.islands.GrancraftIslands
+version: 1.0-SNAPSHOT
+description: Custom homes plugin for the Grancraft network
+depend: [zPermissions, Families, Craftconomy3]
